@@ -1,0 +1,22 @@
+{
+    "packageRules": [
+        {
+            "matchUpdateTypes": [
+                "minor",
+                "patch",
+                "pin",
+                "digest"
+            ],
+            "automerge": false
+        }
+    ],
+    "platformAutomerge": false,
+    "assignAutomerge": true,
+    "assignees": [
+        "dkim19375"
+    ],
+    "extends": [
+        "config:base"
+    ],
+    "prHourlyLimit": 0
+}
