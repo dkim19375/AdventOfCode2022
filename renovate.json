@@ -7,10 +7,10 @@
                 "pin",
                 "digest"
             ],
-            "automerge": false
+            "automerge": true
         }
     ],
-    "platformAutomerge": false,
+    "platformAutomerge": true,
     "assignAutomerge": true,
     "assignees": [
         "dkim19375"
